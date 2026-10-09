@@ -42,9 +42,10 @@ Painel executivo moderno e responsivo desenvolvido como MVP para o desafio de da
 
 ---
 
-## 📬 Contato & Redes Sociais
+ ## 📬 Contatos
 
-* **Autor:** Rafael O. Tozato
-* **GitHub:** [https://github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-* **LinkedIn:** [https://www.linkedin.com/in/rafael-tozato](https://www.linkedin.com/in/rafael-tozato) 
-* **Medium:** [https://medium.com/@rafael.tozato](https://medium.com/@rafael.tozato) 
+  - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+  - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+  - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+  - 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+  - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
